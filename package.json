@@ -1,0 +1,24 @@
+{
+  "name": "renovate-10710",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karfau/renovate-10710.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karfau/renovate-10710/issues"
+  },
+  "homepage": "https://github.com/karfau/renovate-10710#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4"
+  }
+}
